@@ -1,4 +1,4 @@
-# Two-tier-AWS-VPC
+# Two-tier AWS VPC Setup
 This simple mini project describes deployment of a two-tier (Public, Private) AWS VPC and establishing connection between the instances deployed in the two subnets
 
 ## Architecture Overview
