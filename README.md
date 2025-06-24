@@ -57,13 +57,15 @@ This simple mini project describes deployment of a two-tier (Public, Private) AW
 
 This project will be extended with:
 - VPC peering across AWS regions (Mumbai → Oregon)
-- Inter-region routing and secure internal EC2 com![Screenshot 2025-06-24 183712](https://github.com/user-attachments/assets/10f![Screenshot 2025-06-24 194109](https://github.com/user-attachments/assets/301035b2-5531-44bf-a4d9-4cbcfba53e04)
-5e668-8fc2-480b-9629-5796ae898289)
-munication![Screenshot 2025-06-24 192536](https://github.com/user-attachments/assets/15183970-5980-41ac-8fdd-0009d7f31481)
+- Inter-region routing and secure internal EC2 com 
 
+## Screenshots
+![Screenshot 2025-06-24 151704](https://github.com/user-attachments/assets/0587ffa9-e200-43a3-b47f-b6350ef7c265)
 
-## Screenshots![Screenshot 2025-0![Screenshot 2025-![Screenshot 2025-06-24 153420](https://github.com/user-attachments/assets/35a232d2-26f9-4567-8457-dd981103b927)
-06-24 152439](https://github.com/user-attachments/assets/cf583913-ec68-48df-b220-eec7bbb46ef7)
-6-24 152439](https://github.com/user-attachments/assets/863dfc3d-24d0-4020-a212-187c636f2c53)
+![Screenshot 2025-06-24 152439](https://github.com/user-attachments/assets/789a2754-b195-43f5-9629-eec83c44e3f6)
 
+![Screenshot 2025-06-24 152957](https://github.com/user-attachments/assets/f03fdd24-337e-4a8c-bdf4-e73e347d2ddd)
 
+![Screenshot 2025-06-24 192536](https://github.com/user-attachments/assets/82822584-fbeb-40e3-b327-e9f1562c49e3)
+
+![Screenshot 2025-06-24 194109](https://github.com/user-attachments/assets/20d15605-8112-499b-a961-94460b6bfa55)
